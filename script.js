@@ -85,7 +85,7 @@ const questions = [
             "Hide",
             "Climb",
             "Fight",
-            "Somehow convince it we're friends"
+            "Somehow convince it we're friends (they're misunderstood)"
         ]
     },
 
